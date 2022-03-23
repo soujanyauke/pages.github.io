@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+.index-nav .nav-link,.navbar-brand{
+    color: white !important;
+}
+.index-nav .nav-link{
+    font-size: 20px;
+    margin: 5px 10px 5px 10px;
+}
+.index{
+    background-image: url('../img/bg2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.index-nav{
+   background-color:#100f0fa1 !important;
+}
+.content_index{
+    color: white !important;
+    text-align: center;
+    margin-top: 200px !important;
+    padding: 10px;
+}
+.content_index h2{
+    padding: 15px !important;
+}
+form h6,p{
+    color: white !important;
+    /* text-align: center; */
+}
+form h2{
+    color: #10a392;
+}
+.form-control{
+    background-color: white !important;
+}
+.form-control:focus{
+    background-color:white !important;
+}
+.fa-check{
+    color: green !important;
+}
+.skills span{
+    color: black !important;
+    display: block;
+}
+.Developer_module h2{
+    color:#0abbf7 !important;
+}
